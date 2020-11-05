@@ -1,0 +1,10 @@
+﻿i,:,=,(,)
+A,B,L,P,F,Q,S
+S->LA|LB
+L->P:=
+L->Q:=
+P->i
+A->F
+Q->i
+B->F
+F->Q(i)
